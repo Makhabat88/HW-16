@@ -6,7 +6,7 @@ import AppSuspens from './layouts/AppSuspens';
 import MainLayout from './layouts/MainLayout';
 import SingleContact from './pages/SingleContact';
 import Materials from './pages/Materials'
-import Students from './pages/students';
+import Students from './pages/Students';
 import Ratings from './pages/Ratings'
 
 
